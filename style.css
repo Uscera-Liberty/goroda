@@ -1,0 +1,5 @@
+body{
+    padding-left: 200px;
+    height: 100vh;
+    background: linear-gradient(50deg ,pink, rgb(140, 181, 214) ,rgb(124, 95, 179) ,rgb(233, 217, 76) );
+}
